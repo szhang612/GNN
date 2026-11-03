@@ -19,7 +19,7 @@ with learnable $W$ and $b$. Architecture: `GCNConv(1433 → 32) → ReLU → GCN
 
 ## Files
 
-- `GNN.ipynb`: main notebook
+- [`GNN.ipynb`](GNN.ipynb): main notebook
 
 ## References
 
